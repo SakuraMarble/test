@@ -26,7 +26,8 @@
 ### 一、整体框架
 
 ![MindMap.png](https://s2.loli.net/2023/04/02/nZmLJYIj6d4fUth.png)
-（如果需要详细阅读请戳此链接：[MindMap](https://s2.loli.net/2023/04/02/nZmLJYIj6d4fUth.png)
+（如果需要详细阅读请戳此链接：[MindMap](https://s2.loli.net/2023/04/02/nZmLJYIj6d4fUth.png)）
+
 #### 以下是应用运行截图：
 
 登录界面：
